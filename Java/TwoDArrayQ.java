@@ -1,3 +1,5 @@
+// Q. take a matrix s input from the user. search for a number x in the matrix and print the location of x if found.
+
 import java.util.*;
 public class TwoDArrayQ {
     public static void main(String args[]) {
@@ -23,7 +25,5 @@ for(int i=0;i<rows;i++) {
         }
     }
 }
-
-
     }
 }
