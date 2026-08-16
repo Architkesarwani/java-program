@@ -31,7 +31,7 @@ System.out.println(sb);
 
 */
 
-// .append       ye kisi bhi9 word me jodta hai .
+// .append       ye kisi bhi word me jodta hai .
 
 /*
 sb.append("a");   // ajay+ "a";

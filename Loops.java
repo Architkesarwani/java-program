@@ -43,7 +43,7 @@ do{
 
 //  while loop me while ke baad ; nahi lagate lekin do while me ; lagate hai
 
-/*  int i = 15 ;
+  int i = 15 ;
     while(i <10) {
     System.out.println("Archit");
 }
@@ -51,7 +51,7 @@ do{
 do {
      System.out.println("Archit");
     }  while(i < 10);
-*/
+
 
 
 
